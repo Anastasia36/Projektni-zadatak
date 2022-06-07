@@ -1,0 +1,8 @@
+﻿  functions.c
+C:\Users\smrck\source\repos\Projektni zadatak_2\Projektni zadatak_2\functions.c(33,8): warning C4477: 'scanf' : format string '%29[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'double'
+C:\Users\smrck\source\repos\Projektni zadatak_2\Projektni zadatak_2\functions.c(35,8): warning C4477: 'scanf' : format string '%29[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'double'
+  main.c
+C:\Users\smrck\source\repos\Projektni zadatak_2\Projektni zadatak_2\main.c(60,27): warning C4047: 'function': 'int' differs in levels of indirection from 'ROBA *'
+C:\Users\smrck\source\repos\Projektni zadatak_2\Projektni zadatak_2\main.c(60,17): warning C4024: 'exit': different types for formal and actual parameter 1
+C:\Users\smrck\source\repos\Projektni zadatak_2\Projektni zadatak_2\main.c(60,10): error C2120: 'void' illegal with all types
+  Generating Code...
